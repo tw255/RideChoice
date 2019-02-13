@@ -1,0 +1,30 @@
+
+/* Class = "UITextField"; placeholder = "Origin"; ObjectID = "1tH-r5-J1O"; */
+"1tH-r5-J1O.placeholder" = "Origin";
+
+/* Class = "UIButton"; normalTitle = "Search"; ObjectID = "Bvj-DA-tqs"; */
+"Bvj-DA-tqs.normalTitle" = "Search";
+
+/* Class = "UITextField"; placeholder = "Origin"; ObjectID = "L0K-Ja-hXq"; */
+"L0K-Ja-hXq.placeholder" = "Origin";
+
+/* Class = "UITextField"; placeholder = "Destination"; ObjectID = "Y7N-SM-6ST"; */
+"Y7N-SM-6ST.placeholder" = "Destination";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "gt2-IU-2lH"; */
+"gt2-IU-2lH.text" = "Label";
+
+/* Class = "UITextField"; placeholder = "Destination"; ObjectID = "hVM-fB-Qf4"; */
+"hVM-fB-Qf4.placeholder" = "Destination";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "iBJ-r2-kLz"; */
+"iBJ-r2-kLz.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "ie3-Zl-BCs"; */
+"ie3-Zl-BCs.text" = "Label";
+
+/* Class = "UIButton"; normalTitle = "Back"; ObjectID = "kq5-b6-tiz"; */
+"kq5-b6-tiz.normalTitle" = "Back";
+
+/* Class = "UIButton"; normalTitle = "Search"; ObjectID = "yrP-3g-Tol"; */
+"yrP-3g-Tol.normalTitle" = "Search";
